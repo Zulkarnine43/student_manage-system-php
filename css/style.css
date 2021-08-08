@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+.heading{
+background-color: pink;
+height: 70px;
+
+
+
+}
+
+#con{
+	height: 600px;
+	margin-top: 10px;
+   background-color: red;
+   margin-right:  15px;
+
+}
+.copy{
+	color:red;
+}
+.image{
+	height: 500px
+	width:90%;
+}
+.std{
+	
+}
+#action{
+	margin-left: 50px;
+}
